@@ -1,0 +1,15 @@
+<svg width="360" height="300" viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Light panel -->
+  <rect x="0" y="0" width="360" height="150" fill="#FFFFFF" />
+  <text x="16" y="42.196" font-family="Work Sans" font-weight="700" font-size="28" letter-spacing="0" fill="#111111">Same font, new ink</text>
+  <text x="16" y="68.112" font-family="Work Sans" font-weight="600" font-size="16" letter-spacing="0" fill="#111111">Golden tests love pixels. So do we.</text>
+  <text x="16" y="91.112" font-family="Work Sans" font-weight="400" font-size="16" letter-spacing="0" fill="#111111">Every glyph comes from the same file.</text>
+  <text x="16" y="111.598" font-family="Work Sans" font-weight="100" font-size="14" letter-spacing="0" fill="#111111">Thin weights feel it the most: 0123456789</text>
+
+  <!-- Dark panel -->
+  <rect x="0" y="150" width="360" height="150" fill="#111111" />
+  <text x="16" y="192.196" font-family="Work Sans" font-weight="700" font-size="28" letter-spacing="0" fill="#FFFFFF">Same font, new ink</text>
+  <text x="16" y="218.112" font-family="Work Sans" font-weight="600" font-size="16" letter-spacing="0" fill="#FFFFFF">Golden tests love pixels. So do we.</text>
+  <text x="16" y="241.112" font-family="Work Sans" font-weight="400" font-size="16" letter-spacing="0" fill="#FFFFFF">Every glyph comes from the same file.</text>
+  <text x="16" y="261.598" font-family="Work Sans" font-weight="100" font-size="14" letter-spacing="0" fill="#FFFFFF">Thin weights feel it the most: 0123456789</text>
+</svg>

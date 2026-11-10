@@ -1,0 +1,74 @@
+[
+  {
+    "panel": "light",
+    "line": "bold",
+    "x": 16.0,
+    "yBaseline": 42.19610595703125,
+    "word": "ink",
+    "wordLeft": 240.3360137939453,
+    "wordRight": 283.260009765625
+  },
+  {
+    "panel": "light",
+    "line": "semibold",
+    "x": 16.0,
+    "yBaseline": 68.112060546875,
+    "word": "pixels.",
+    "wordLeft": 158.46405029296875,
+    "wordRight": 209.0880584716797
+  },
+  {
+    "panel": "light",
+    "line": "regular",
+    "x": 16.0,
+    "yBaseline": 91.112060546875,
+    "word": "glyph",
+    "wordLeft": 63.0880126953125,
+    "wordRight": 104.28800964355469
+  },
+  {
+    "panel": "light",
+    "line": "thin",
+    "x": 16.0,
+    "yBaseline": 111.59805297851562,
+    "word": "weights",
+    "wordLeft": 45.49800109863281,
+    "wordRight": 92.3699951171875
+  },
+  {
+    "panel": "dark",
+    "line": "bold",
+    "x": 16.0,
+    "yBaseline": 192.19610595703125,
+    "word": "ink",
+    "wordLeft": 240.3360137939453,
+    "wordRight": 283.260009765625
+  },
+  {
+    "panel": "dark",
+    "line": "semibold",
+    "x": 16.0,
+    "yBaseline": 218.112060546875,
+    "word": "pixels.",
+    "wordLeft": 158.46405029296875,
+    "wordRight": 209.0880584716797
+  },
+  {
+    "panel": "dark",
+    "line": "regular",
+    "x": 16.0,
+    "yBaseline": 241.112060546875,
+    "word": "glyph",
+    "wordLeft": 63.0880126953125,
+    "wordRight": 104.28800964355469
+  },
+  {
+    "panel": "dark",
+    "line": "thin",
+    "x": 16.0,
+    "yBaseline": 261.5980529785156,
+    "word": "weights",
+    "wordLeft": 45.49800109863281,
+    "wordRight": 92.3699951171875
+  }
+]

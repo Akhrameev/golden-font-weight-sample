@@ -1,0 +1,33 @@
+name: font_weight_sample
+description: "Figma vs flutter_test golden vs iOS Simulator: a font-weight rendering comparison."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bc_golden_plugin: ^3.2.0
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Work Sans
+      fonts:
+        - asset: assets/fonts/WorkSans-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/WorkSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/WorkSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/WorkSans-Bold.ttf
+          weight: 700

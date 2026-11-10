@@ -1,0 +1,136 @@
+{
+  "lines": [
+    {
+      "panel": "light",
+      "line": "bold",
+      "y_range": [
+        65,
+        144
+      ],
+      "ink_figma": 19291.567226890755,
+      "ink_golden": 20446.285714285714,
+      "ink_sim": 18905.844537815123,
+      "stem_figma": 18.267168391345248,
+      "stem_golden": 18.878927911275415,
+      "stem_sim": 17.214678899082568,
+      "golden_vs_figma_pct": 5.98561264522554,
+      "sim_vs_figma_pct": -1.999436772238848
+    },
+    {
+      "panel": "light",
+      "line": "semibold",
+      "y_range": [
+        168,
+        214
+      ],
+      "ink_figma": 9713.09243697479,
+      "ink_golden": 10849.642857142857,
+      "ink_sim": 9311.773109243697,
+      "stem_figma": 8.875227686703097,
+      "stem_golden": 9.776470588235295,
+      "stem_sim": 8.237057220708447,
+      "golden_vs_figma_pct": 11.70122108425083,
+      "sim_vs_figma_pct": -4.1317359052755664
+    },
+    {
+      "panel": "light",
+      "line": "regular",
+      "y_range": [
+        237,
+        284
+      ],
+      "ink_figma": 7177.004201680673,
+      "ink_golden": 8463.978991596638,
+      "ink_sim": 6731.596638655462,
+      "stem_figma": 5.709527498063516,
+      "stem_golden": 6.415525114155251,
+      "stem_sim": 5.093312597200622,
+      "golden_vs_figma_pct": 17.93192192383819,
+      "sim_vs_figma_pct": -6.206037373099319
+    },
+    {
+      "panel": "light",
+      "line": "thin",
+      "y_range": [
+        304,
+        345
+      ],
+      "ink_figma": 1362.5420168067226,
+      "ink_golden": 2534.4411764705883,
+      "ink_sim": 985.5630252100841,
+      "stem_figma": 1.299283154121864,
+      "stem_golden": 1.8309037900874636,
+      "stem_sim": 1.0305084745762711,
+      "golden_vs_figma_pct": 86.00829517245634,
+      "sim_vs_figma_pct": -27.66732966372172
+    },
+    {
+      "panel": "dark",
+      "line": "bold",
+      "y_range": [
+        515,
+        594
+      ],
+      "ink_figma": 19294.9537815126,
+      "ink_golden": 20975.2731092437,
+      "ink_sim": 18905.714285714286,
+      "stem_figma": 18.316384180790962,
+      "stem_golden": 19.340073529411764,
+      "stem_sim": 17.214678899082568,
+      "golden_vs_figma_pct": 8.708594727711104,
+      "sim_vs_figma_pct": -2.017312403055669
+    },
+    {
+      "panel": "dark",
+      "line": "semibold",
+      "y_range": [
+        618,
+        665
+      ],
+      "ink_figma": 9716.83193277311,
+      "ink_golden": 11409.97899159664,
+      "ink_sim": 9311.915966386556,
+      "stem_figma": 8.912647861692447,
+      "stem_golden": 10.297127468581687,
+      "stem_sim": 8.237057220708447,
+      "golden_vs_figma_pct": 17.424887767306668,
+      "sim_vs_figma_pct": -4.167160337731539
+    },
+    {
+      "panel": "dark",
+      "line": "regular",
+      "y_range": [
+        687,
+        734
+      ],
+      "ink_figma": 7179.285714285714,
+      "ink_golden": 9096.0,
+      "ink_sim": 6730.5756302521,
+      "stem_figma": 5.75135553834237,
+      "stem_golden": 6.943009118541034,
+      "stem_sim": 5.093312597200622,
+      "golden_vs_figma_pct": 26.6978410108447,
+      "sim_vs_figma_pct": -6.250065840683104
+    },
+    {
+      "panel": "dark",
+      "line": "thin",
+      "y_range": [
+        754,
+        795
+      ],
+      "ink_figma": 1366.5546218487395,
+      "ink_golden": 3226.7436974789916,
+      "ink_sim": 985.4159663865547,
+      "stem_figma": 1.3121238177128116,
+      "stem_golden": 2.3876525484565687,
+      "stem_sim": 1.0305084745762711,
+      "golden_vs_figma_pct": 136.12255565121143,
+      "sim_vs_figma_pct": -27.890480875661048
+    }
+  ],
+  "pixel_diff_pct": {
+    "golden_vs_figma": 7.79619341563786,
+    "sim_vs_figma": 7.827057613168725
+  }
+}
